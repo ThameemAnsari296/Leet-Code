@@ -9,10 +9,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0053-maximum-subarray) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ThameemAnsari296/Leet-Code/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ThameemAnsari296/Leet-Code/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Matrix
 |  |
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ThameemAnsari296/Leet-Code/tree/master/1496-lucky-numbers-in-a-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
