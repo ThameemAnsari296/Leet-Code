@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0066-plus-one) |
 | [0566-reshape-the-matrix](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0566-reshape-the-matrix) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ThameemAnsari296/Leet-Code/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0059-spiral-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0566-reshape-the-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ThameemAnsari296/Leet-Code/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Divide and Conquer
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0059-spiral-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0566-reshape-the-matrix) |
 ## Two Pointers
 |  |
