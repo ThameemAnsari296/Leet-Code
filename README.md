@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0066-plus-one) |
 | [0566-reshape-the-matrix](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0566-reshape-the-matrix) |
+| [0921-spiral-matrix-iii](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0921-spiral-matrix-iii) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ThameemAnsari296/Leet-Code/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ThameemAnsari296/Leet-Code/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ThameemAnsari296/Leet-Code/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0059-spiral-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0566-reshape-the-matrix) |
+| [0921-spiral-matrix-iii](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ThameemAnsari296/Leet-Code/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Divide and Conquer
 |  |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0059-spiral-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0566-reshape-the-matrix) |
+| [0921-spiral-matrix-iii](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0921-spiral-matrix-iii) |
 ## Two Pointers
 |  |
 | ------- |
