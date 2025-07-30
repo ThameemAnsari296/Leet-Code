@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0189-rotate-array) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ThameemAnsari296/Leet-Code/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ThameemAnsari296/Leet-Code/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## Array
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0073-set-matrix-zeroes) |
+| [0189-rotate-array](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0189-rotate-array) |
 | [0566-reshape-the-matrix](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0566-reshape-the-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0921-spiral-matrix-iii) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ThameemAnsari296/Leet-Code/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |
