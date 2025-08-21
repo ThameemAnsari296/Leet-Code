@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0268-missing-number) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ThameemAnsari296/Leet-Code/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1372-check-if-it-is-a-good-array](https://github.com/ThameemAnsari296/Leet-Code/tree/master/1372-check-if-it-is-a-good-array) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/ThameemAnsari296/Leet-Code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ThameemAnsari296/Leet-Code/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## Array
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0921-spiral-matrix-iii) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ThameemAnsari296/Leet-Code/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1372-check-if-it-is-a-good-array](https://github.com/ThameemAnsari296/Leet-Code/tree/master/1372-check-if-it-is-a-good-array) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/ThameemAnsari296/Leet-Code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ThameemAnsari296/Leet-Code/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ThameemAnsari296/Leet-Code/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Matrix
