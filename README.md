@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0075-sort-colors) |
+| [0162-find-peak-element](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0198-house-robber) |
 | [0268-missing-number](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0268-missing-number) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0162-find-peak-element](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0268-missing-number) |
 ## Sorting
 |  |
