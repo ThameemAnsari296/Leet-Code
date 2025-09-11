@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0198-house-robber) |
 | [0268-missing-number](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0268-missing-number) |
 | [0566-reshape-the-matrix](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0566-reshape-the-matrix) |
+| [0792-binary-search](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0792-binary-search) |
 | [0921-spiral-matrix-iii](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0921-spiral-matrix-iii) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ThameemAnsari296/Leet-Code/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1372-check-if-it-is-a-good-array](https://github.com/ThameemAnsari296/Leet-Code/tree/master/1372-check-if-it-is-a-good-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0792-binary-search) |
 ## Sorting
 |  |
 | ------- |
