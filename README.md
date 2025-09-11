@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0367-valid-perfect-square) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ThameemAnsari296/Leet-Code/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1372-check-if-it-is-a-good-array](https://github.com/ThameemAnsari296/Leet-Code/tree/master/1372-check-if-it-is-a-good-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ThameemAnsari296/Leet-Code/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0792-binary-search) |
 ## Sorting
