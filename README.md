@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0374-guess-number-higher-or-lower) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -113,5 +114,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
