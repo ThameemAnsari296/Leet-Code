@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ThameemAnsari296/Leet-Code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ThameemAnsari296/Leet-Code/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ThameemAnsari296/Leet-Code/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1646-kth-missing-positive-number](https://github.com/ThameemAnsari296/Leet-Code/tree/master/1646-kth-missing-positive-number) |
 ## Matrix
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0374-guess-number-higher-or-lower) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0792-binary-search) |
+| [1646-kth-missing-positive-number](https://github.com/ThameemAnsari296/Leet-Code/tree/master/1646-kth-missing-positive-number) |
 ## Sorting
 |  |
 | ------- |
