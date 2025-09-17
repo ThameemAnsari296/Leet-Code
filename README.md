@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ThameemAnsari296/Leet-Code/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ThameemAnsari296/Leet-Code/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/ThameemAnsari296/Leet-Code/tree/master/1646-kth-missing-positive-number) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/ThameemAnsari296/Leet-Code/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Matrix
 |  |
 | ------- |
@@ -111,12 +112,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/ThameemAnsari296/Leet-Code/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ThameemAnsari296/Leet-Code/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/ThameemAnsari296/Leet-Code/tree/master/1646-kth-missing-positive-number) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/ThameemAnsari296/Leet-Code/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0268-missing-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ThameemAnsari296/Leet-Code/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/ThameemAnsari296/Leet-Code/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Bit Manipulation
 |  |
 | ------- |
