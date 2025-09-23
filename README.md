@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0198-house-robber) |
 | [0268-missing-number](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0566-reshape-the-matrix) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0792-binary-search) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0374-guess-number-higher-or-lower) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0882-peak-index-in-a-mountain-array) |
