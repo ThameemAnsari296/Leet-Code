@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0198-house-robber) |
 | [0268-missing-number](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0566-reshape-the-matrix) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ThameemAnsari296/Leet-Code/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Greedy
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0540-single-element-in-a-sorted-array) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 ## Number Theory
 |  |
 | ------- |
