@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0198-house-robber) |
+| [0217-contains-duplicate](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0540-single-element-in-a-sorted-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0073-set-matrix-zeroes) |
+| [0217-contains-duplicate](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0268-missing-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ThameemAnsari296/Leet-Code/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Binary Search
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0268-missing-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ThameemAnsari296/Leet-Code/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/ThameemAnsari296/Leet-Code/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
