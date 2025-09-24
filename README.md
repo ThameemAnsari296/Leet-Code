@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0189-rotate-array) |
@@ -144,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0374-guess-number-higher-or-lower) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
