@@ -157,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0050-powx-n) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
