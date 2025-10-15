@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/ThameemAnsari296/Leet-Code/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ThameemAnsari296/Leet-Code/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ThameemAnsari296/Leet-Code/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ThameemAnsari296/Leet-Code/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/ThameemAnsari296/Leet-Code/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1646-kth-missing-positive-number](https://github.com/ThameemAnsari296/Leet-Code/tree/master/1646-kth-missing-positive-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/ThameemAnsari296/Leet-Code/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/ThameemAnsari296/Leet-Code/tree/master/0645-set-mismatch) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ThameemAnsari296/Leet-Code/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ThameemAnsari296/Leet-Code/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/ThameemAnsari296/Leet-Code/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/ThameemAnsari296/Leet-Code/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Bit Manipulation
